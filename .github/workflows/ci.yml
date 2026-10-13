@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [main]
+    branches: [main, codex/native-print-ci-20261013]
   pull_request:
   workflow_dispatch:
     inputs:
